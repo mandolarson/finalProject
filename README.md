@@ -1,8 +1,8 @@
-#SONG VISUALIZER
+# SONG VISUALIZER
 
-##view a live version here: 
+## view a live version here: 
 
-Some basic Git commands are:
+### Some basic Git commands are:
 ```
 git status
 git add
